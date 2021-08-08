@@ -1,6 +1,6 @@
 # investment-portfolio
  
- ISOM3230 (Business Applications Programming): Assignment 1
+ ISOM3230 (Business Applications Programming): Project 1
 - Investment portfolio, which pulls HKEX data from Quandl API, that analyzes the stock based on basic technical indicators (e.g. RSI, SMA, Bollinger Bands)
 
 <br>
