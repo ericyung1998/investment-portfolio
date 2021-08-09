@@ -6,5 +6,5 @@
 <br>
 
 - Learning Objectives: apply programming concepts to solve business problems
- - Specifications: pulls HKEX data from Quandl API
+  - Specifications: pulls HKEX data from Quandl API
 - Improvements: fix recommendation algorithm, add more technical indicators (e.g. MACD, Stochastic Oscillator, Volume) 
